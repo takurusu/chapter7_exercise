@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-image: url(img/mv.jpg);
+  background-position: center bottom;
+  background-size: cover;
+  width: 100%;
+  height: 400px;
+}
+
+.header-text {
+  padding-top: 20px;
+  padding-left: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  color: grey;
+}
+
+.box {
+  width: 840px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin: 0 auto;
+}
+
+.box-content {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: solid 1px gray;
+}
+
+.visual {
+}
+
+.box-text {
+  color: grey;
+}
+
+.link {
+  color: grey;
+}
